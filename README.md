@@ -28,14 +28,6 @@ ConversorMonedas/
 - Conexión a internet (para acceder a la API)
 - Dependencia de Gson para parsear JSON
 
-Puedes agregar Gson manualmente o usar un sistema de construcción como Maven/Gradle. Para compilar manualmente:
-
-```bash
-javac -cp ".;gson-2.8.9.jar" src/*.java
-Y ejecutar:
-
-java -cp ".;gson-2.8.9.jar;src" Principal
-
 🔧 Cómo usar
 Ejecuta el programa.
 
